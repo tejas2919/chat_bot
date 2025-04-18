@@ -1,0 +1,5 @@
+streamlit==1.32.0
+python-dotenv==1.0.1
+anthropic==0.18.1
+SpeechRecognition==3.10.1
+PyAudio==0.2.14 
