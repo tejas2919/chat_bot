@@ -2,6 +2,14 @@
 
 A ChatGPT-like interface with voice support, built using Streamlit and the Anthropic Claude API.
 
+#MENTOR 
+-MS.ANKITA MAM-Faculty Guide 
+-DR.RAJESHUPADHYAY-Head of Departement (HOD)
+
+#TEAM MEMBERS
+
+
+
 ## ✨ Features
 
 - 💬 Text-based chat interface
