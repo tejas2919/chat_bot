@@ -2,13 +2,17 @@
 
 A ChatGPT-like interface with voice support, built using Streamlit and the Anthropic Claude API.
 
-#MENTOR 
--MS.ANKITA MAM-Faculty Guide 
--DR.RAJESHUPADHYAY-Head of Departement (HOD)
+## 👥 Mentors
 
-#TEAM MEMBERS
+- Ms. Ankita - Faculty Guide
+- Dr. Rajesh Upadhyay - Head of Department (HOD)
 
+## 👨‍💻 Team Members
 
+-  Tejas Choudhary- B.Tech Student (AIML)
+- Ayushi - B.Tech Student(CYBER)
+- Vanshika Saini - B.Tech Student(AIML)
+- Tanya Garg - B.Tech Student (AIML)
 
 ## ✨ Features
 
